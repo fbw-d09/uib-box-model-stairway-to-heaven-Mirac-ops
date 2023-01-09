@@ -1,0 +1,30 @@
+
+
+.box-1{
+    width: 100px;
+    height: 100px;
+    background: blanchedalmond;
+}
+
+.box-2{
+    width: 100px;
+    height: 100px;
+    background: rgb(248, 150, 4);
+    margin-left: 100px;
+    border: 3px solid red;
+}
+
+.box-3{
+    width: 100px;
+    height: 100px;
+    background: rgb(6, 6, 6);
+    margin-left: 200px;
+} 
+
+.box-4{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 300px;
+    border: 3px solid black;
+}
